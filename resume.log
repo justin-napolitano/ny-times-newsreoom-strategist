@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.4.17)  22 APR 2024 15:10
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.5.22)  22 JUL 2024 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,13 +990,12 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 \BKM@id=\count328
 ))
-File: head_shot.jpeg Graphic file (type bmp)
-<head_shot.jpeg>
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-
- []
-
+! Undefined control sequence.
+\makeheader ... \color {headerfontcolor}\@tagline 
+                                                  \par } \end {minipage}\ifd...
+l.54 \makeheader
+                
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 295--295
 
@@ -1046,12 +1045,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32214 strings out of 476191
- 712291 string characters out of 5812072
- 1257215 words of memory out of 5000000
- 52501 multiletter control sequences out of 15000+600000
+ 32170 strings out of 476191
+ 711209 string characters out of 5812072
+ 1255216 words of memory out of 5000000
+ 52460 multiletter control sequences out of 15000+600000
  472849 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 125i,15n,120p,10602b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 125i,15n,120p,10602b,814s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
