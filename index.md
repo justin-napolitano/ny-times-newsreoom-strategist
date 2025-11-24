@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - python scripting
   - xelatex
 seoOptimized: true
+topicFamily: latex
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The project centers on a LaTeX resume template with an emphasis on build automation using Python
+  and XeLaTeX. It involves professional document preparation, matching the 'latex' family's
+  description and example slugs perfectly. Although automation is involved, the core focus is LaTeX
+  resume template and related tooling.
 ---
 
 # Technical Overview of ny-times-newsreoom-strategist
@@ -84,3 +91,4 @@ The repository contains example PDFs (`resume.pdf`, `technical.pdf`) and images 
 ## Conclusion
 
 This project serves as a practical framework for managing LaTeX resume templates with automated builds. It balances customization with automation, making it suitable for developers comfortable with LaTeX and Python scripting. Returning to this project, one should focus on expanding automation robustness, documenting template options, and refining dependency management to enhance usability and maintainability.
+
