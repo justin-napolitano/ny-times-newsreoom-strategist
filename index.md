@@ -1,12 +1,26 @@
 ---
-slug: "github-ny-times-newsreoom-strategist"
-title: "ny-times-newsreoom-strategist"
-repo: "justin-napolitano/ny-times-newsreoom-strategist"
-githubUrl: "https://github.com/justin-napolitano/ny-times-newsreoom-strategist"
-generatedAt: "2025-11-23T09:22:49.986761Z"
-source: "github-auto"
+slug: github-ny-times-newsreoom-strategist
+title: Automated LaTeX Resume Template with Python Build Pipeline
+repo: justin-napolitano/ny-times-newsreoom-strategist
+githubUrl: https://github.com/justin-napolitano/ny-times-newsreoom-strategist
+generatedAt: '2025-11-23T09:22:49.986761Z'
+source: github-auto
+summary: >-
+  Technical overview of a LaTeX resume template using XeLaTeX and a Python-driven build automation
+  script for customizable and reproducible outputs.
+tags:
+  - latex
+  - resume-template
+  - build-automation
+  - python
+  - xelatex
+seoPrimaryKeyword: latex resume template
+seoSecondaryKeywords:
+  - build automation
+  - python scripting
+  - xelatex
+seoOptimized: true
 ---
-
 
 # Technical Overview of ny-times-newsreoom-strategist
 
