@@ -1,32 +1,41 @@
 ---
 slug: github-ny-times-newsreoom-strategist
-title: Automated LaTeX Resume Template with Python Build Pipeline
+title: Automated LaTeX Resume Builder with Python Integration
 repo: justin-napolitano/ny-times-newsreoom-strategist
 githubUrl: https://github.com/justin-napolitano/ny-times-newsreoom-strategist
 generatedAt: '2025-11-23T09:22:49.986761Z'
 source: github-auto
 summary: >-
-  Technical overview of a LaTeX resume template using XeLaTeX and a Python-driven build automation
-  script for customizable and reproducible outputs.
+  Explore a LaTeX resume template with a Python-based build automation pipeline
+  for customizable and efficient resume creation.
 tags:
   - latex
   - resume-template
   - build-automation
   - python
   - xelatex
-seoPrimaryKeyword: latex resume template
-seoSecondaryKeywords:
   - build automation
-  - python scripting
-  - xelatex
+  - resume template
+  - makefile
+  - dependency management
+seoPrimaryKeyword: latex resume automation
+seoSecondaryKeywords:
+  - python build script
+  - customizable resume template
+  - automated LaTeX compilation
+  - resume styling with LaTeX
+  - XeLaTeX resume builder
 seoOptimized: true
 topicFamily: latex
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The project centers on a LaTeX resume template with an emphasis on build automation using Python
-  and XeLaTeX. It involves professional document preparation, matching the 'latex' family's
-  description and example slugs perfectly. Although automation is involved, the core focus is LaTeX
-  resume template and related tooling.
+  The project centers on a LaTeX resume template with an emphasis on build
+  automation using Python and XeLaTeX. It involves professional document
+  preparation, matching the 'latex' family's description and example slugs
+  perfectly. Although automation is involved, the core focus is LaTeX resume
+  template and related tooling.
+kind: project
+id: github-ny-times-newsreoom-strategist
 ---
 
 # Technical Overview of ny-times-newsreoom-strategist
