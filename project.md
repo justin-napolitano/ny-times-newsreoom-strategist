@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/ny-times-newsreoom-strategist
 generatedAt: '2025-11-24T21:35:49.572Z'
 source: github-auto
 summary: >-
-  A LaTeX resume template with Python scripts for automated builds and
-  customizable styles, designed for professional resume creation.
+  A LaTeX resume template with Python scripts for automated builds and customizable styles, designed
+  for professional resume creation.
 tags:
   - latex
   - python
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - automated resume generation
   - makefile for latex
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: latex
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -118,3 +118,4 @@ python python-build.py
 ---
 
 *Note: Some assumptions were made due to limited explicit documentation.*
+
