@@ -1,20 +1,30 @@
 ---
 slug: github-ny-times-newsreoom-strategist
 id: github-ny-times-newsreoom-strategist
-title: ny-times-newsreoom-strategist
+title: LaTeX Resume Template with Build Automation Scripts
 repo: justin-napolitano/ny-times-newsreoom-strategist
 githubUrl: https://github.com/justin-napolitano/ny-times-newsreoom-strategist
 generatedAt: '2025-11-24T21:35:49.572Z'
 source: github-auto
 summary: >-
-  This repository contains a LaTeX resume template and related build scripts,
-  designed for producing professional resumes with customizable styling. It
-  leverages XeLaTeX for compilation and includes automation scripts to manage
-  dependencies and build processes.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A LaTeX resume template with Python scripts for automated builds and
+  customizable styles, designed for professional resume creation.
+tags:
+  - latex
+  - python
+  - build automation
+  - makefile
+  - xelatex
+  - resume template
+  - dependency management
+seoPrimaryKeyword: latex resume template automation
+seoSecondaryKeywords:
+  - build scripts for resumes
+  - customizable resume styles
+  - python build pipeline
+  - automated resume generation
+  - makefile for latex
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
